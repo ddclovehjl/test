@@ -1,37 +1,232 @@
-## Welcome to GitHub Pages
+<TITLE>导航</TITLE>
+<head><style. type="text/css"> <!--
+　　a { text-decoration: none}
+--> </style></head>
+<link rel="Shortcut Icon"href="ye.jpg"> 
+  <body background="tk.jpg" body
+　　bgproperties=fixed>
+  <style>
+.font_bk{border:5px solid #ccc;}
+</style>
+  <p><div id="blink"><CENTER><h1><EM><big><SUP>常用导航</SUP></big></EM></div> 
+<script language="javascript"> 
+function changeColor(){ 
+var color="#f00|#0f0|#00f|#880|#808|#088|yellow|green|blue|gray"; 
+color=color.split("|"); 
+document.getElementById("blink").style.color=color[parseInt(Math.random() * color.length)]; 
+} 
+setInterval("changeColor()",200); 
+</script> </center>    </p>
+<p><CENTER><h1><span class="font_bk"><a href="https://www.baidu.com/"><font color="#00ff00"> 百度</font> </a></span> 　 &nbsp; &nbsp; &nbsp;
+  <span class="font_bk"> <a href="https://www.4399.com/"><font color="#00ff00"> <u>4399</u></font> </a></span>     &nbsp; &nbsp; &nbsp;
+   <span class="font_bk"><a href="https://www.sanguosha.com/"><font color="#00ff00"><u>三国杀</u></h1></span></font> </a> </CENTER> </p> 
+<p><CENTER><a href="https://www.so.com//"><font color="#0000ff">360</font> </a>  &nbsp; &nbsp; &nbsp;
+           <a href="https://www.tmall.com//"><font color="#0000ff">天猫</font> </a>  &nbsp; &nbsp; &nbsp;
+           <a href="https://m.jd.com//"><font color="#0000ff">京东</font> </a>  &nbsp; &nbsp; &nbsp;</CENTER>
+  <div id="blink"><img src="https://p0.ssl.qhimg.com/t01c02cdd8c43cdc823.png?size=640x480"></div>
+  &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; 
+   &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
+    &nbsp; &nbsp; &nbsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;
+    &emsp;&emsp; &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; 
+     &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp; 
+     &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
+    <div style="float:right"><img src="https://p0.ssl.qhimgs4.com/dmfd/125_71_/t0160e257ae707af88c.jpg?size=640x480"></div></p>
+<p>     &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
+  <center> <div id="blink"><img src="http://p1.so.qhimgs1.com/t01baa77d65704be141.jpg"  height=500  width=400>&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
+  <img src="http://p4.so.qhmsg.com/bdr/326__/t01864e76afcfe5f749.jpg"  height=500  width=400>
+     &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p0.so.qhmsg.com/bdr/326__/t01a9ff4093546f912f.jpg" height=500 width=400>
+     &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p5.so.qhimgs1.com/bdr/326__/t01fd32e98afe127e8b.jpg" height=500 width=400>
+     &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p0.so.qhmsg.com/bdr/326__/t017abc1de09c20ca55.jpg" height=500 width=400>
+  </center></div></p></center></div></p>
+<p><center> <div id="blink"><img src="http://p2.so.qhmsg.com/bdr/326__/t01c9328976a83053a7.jpg"  height=500  width=400>&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
+  <img src="http://p1.so.qhimgs1.com/bdr/326__/t013b26878c91a36781.jpg"  height=500  width=400>
+     &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p4.so.qhmsg.com/bdr/326__/t01f062fd1e93c3fe39.jpg" height=500 width=400>
+   &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p1.so.qhimgs1.com/bdr/326__/t01c186aa68a9bf0701.jpg" height=500 width=400>
+     &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p0.so.qhimgs1.com/bdr/326__/t0140291295363c3da0.jpg"  height=500  width=400>
+     </center></div></p></center></div></p>
 
-You can use the [editor on GitHub](https://github.com/ddclovehjl/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="float:left"><meta charset="UTF-8">
+<title>Document</title>
+<script type="text/javascript">
+window.onload=function(){
+var oImg=document.getElementById("img1");
+var arrImgUrl=["img1.jpg","img2.jpg","img3.jpg","img4.jpg"]
+var num=0;
+function Tab(){
+num++;
+if(num>arrImgUrl.length-1){
+num=0;
+}
+oImg.src=arrImgUrl[num];
+}
+setInterval(Tab,2000)
+}
+</script>
+</head>
+<body>
+  <img id="img1" src="img1.jpg" width="500" height="500"></div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div style="float:right">  
+  <table width="535" height="215" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="450" height="215"><script language=JavaScript> 
+<!-- // BannerAD 
 
-### Markdown
+var bannerAD=new Array(); 
+var bannerADlink=new Array(); 
+var adNum=0; 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+bannerAD[0]="img11.jpg"; 
+bannerADlink[0]="img11.jpg"; 
+bannerAD[1]="img12.jpg"; 
+bannerADlink[1]="img12.jpg"; 
+bannerAD[2]="img13.jpg"; 
+bannerADlink[2]="img13.jpg"; 
 
-```markdown
-Syntax highlighted code block
+var preloadedimages=new Array(); 
+for (i=1;i<bannerAD.length;i++){ 
+preloadedimages[i]=new Image(); 
+preloadedimages[i].src=bannerAD[i]; 
+} 
 
-# Header 1
-## Header 2
-### Header 3
+function setTransition(){ 
+if (document.all){ 
+bannerADrotator.filters.revealTrans.Transition=Math.floor(Math.random()*23); 
+bannerADrotator.filters.revealTrans.apply(); 
+} 
+} 
 
-- Bulleted
-- List
+function playTransition(){ 
+if (document.all) 
+bannerADrotator.filters.revealTrans.play() 
+} 
 
-1. Numbered
-2. List
+function nextAd(){ 
+if(adNum<bannerAD.length-1)adNum++ ; 
+else adNum=0; 
+setTransition(); 
+document.images.bannerADrotator.src=bannerAD[adNum]; 
+playTransition(); 
+theTimer=setTimeout("nextAd()", 2000); 
+} 
 
-**Bold** and _Italic_ and `Code` text
+function jump2url(){ 
+jumpUrl=bannerADlink[adNum]; 
+jumpTarget='_blank'; 
+if (jumpUrl != ''){ 
+if (jumpTarget != '')window.open(jumpUrl,jumpTarget); 
+else location.href=jumpUrl; 
+} 
+} 
+function displayStatusMsg() { 
+status=bannerADlink[adNum]; 
+document.returnValue = true; 
+} 
 
-[Link](url) and ![Image](src)
-```
+//--> 
+</script> 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img 
+style="FILTER: revealTrans(duration=2,transition=20)" height=500
+src="" width=500 border=1 
+name=bannerADrotator>
+<SCRIPT language=JavaScript>nextAd()</SCRIPT></td>
+  </tr>
+</table>
 
-### Jekyll Themes
+</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddclovehjl/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  
+  <p><CENTER><a href="https://cn.bing.com//"><font color="#ff0000"><BLINK>必应</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;　
+   <a href="https://www.sina.com.cn//"><font color="#ff0000"><BLINK>新浪</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;
+   <a href="https://www.163.com//"><font color="#ff0000"><BLINK>网易</BLINK></font> </a> </CENTER></p>
+<p><CENTER><a href="https://www.360kan.com//"><font color="#ff0000"><BLINK>视频</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;　
+   <a href="https://jumpluna.58.com/s?spm=b-31580022738699-pe-f-829&ch=ha//"><font color="#ff0000"><BLINK>58同城</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;
+   <a href="https://www.cctv.com///"><font color="#ff0000"><BLINK>央视网</BLINK></font> </a> </CENTER></p>
+<p><CENTER><a href="http://www.xinhuanet.com///"><font color="#ff0000"><BLINK>新华网</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;　　
+   <a href="https://www.renrenche.com/?fr=1463&tg_aid=10050114//"><font color="#ff0000"><BLINK>人人车</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;
+   <a href="https://ju.suning.com/?utm_source=hao360&utm_medium=djh//"><font color="#ff0000"><BLINK>苏宁</BLINK></font> </a> </CENTER></p>
+<p><CENTER><a href="http://www.jumei.com///"><font color="#ff0000"><BLINK>聚美优品</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;　
+   <a href="https://qbd.qunar.com/?jumphost=https://www.qunar.com&ex_track=auto_1CSE1D0001//"><font color="#ff0000"><BLINK>去哪</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;
+   <a href="https://mini.eastday.com//"><font color="#ff0000"><BLINK>头条</BLINK></font> </a> </CENTER></p>
 
-### Support or Contact
+<p><CENTER><a href="http://wenda.so.com//"><font color="#ff0000"><BLINK>问答</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;　
+   <a href="https:http://www.ifeng.com///"><font color="#ff0000"><BLINK>凤凰</BLINK></font> </a>  &nbsp; &nbsp; &nbsp;
+   <a href="https://www.tuniu.com//"><font color="#ff0000"><BLINK>途牛</BLINK></font> </a> </CENTER></p>
+<p><center><a href="http://image.so.com//" target="_blank">美图</a></CENTER></p>
+<p><center><a href="http://www.baidu.com//" target="_blank"> <marquee direction="down"><center><img src="nw.jpg"/></center></marquee></a></p>
+<P><a href="http://www.4396.com//" target="_blank"><marquee direction="up"><center><img src="yh.jpg"/></center></marquee></a></p>
+   <p>  <marquee><font color="#ffffff"><h1>战争的艺术   习近平在巴布亚新几内亚媒体发表署名文章</h1></font></marquee> </p>       
+   <a href="https://www.baidu.com/"><marquee direction="down"><font color="#ff00ff"><center>百度上网导航</center></font></marquee></a>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<CENTER>
+<TABLE width=50 border=0>
+<TBODY>
+<TR>
+<TD background="00.jpg" width=50 height=50>
+<P align=center>
+<IMG style="FILTER: Alpha(opacity=100,style=4); WIDTH: 100px; HEIGHT: 140px" height=图片高度 src="图片地址" width=图片宽度>
+</P>
+</TD>
+</TR>
+</TBODY>
+</TABLE>
+</CENTER>
+<div style="float:right">靠右显示</div>
+  <a href="javascript:top.window.close()"><font color="#0000ff"><big><center>点击关闭窗口</center></big></font></a>
+  <a href="javascript:window.close();">退出系统</a>
+  <a href="java script.:history.go(-1)">点击后退</a>
+  <script language="javascript">
+<!--
+function clock(){i=i-  1 document.title="本窗口将在"+i+"秒后自动关闭!";if(i>0)setTimeout("clock();",1000);else self.close();}
+var i=3
+clock();
+//-->
+                  </script>
+  <center><SCRIPT language=JavaScript> 
+<!--
+text = "hello，tomorrow"; //显示的文字 
+color1 = "red"; //文字的颜色 
+color2 = "white"; //转换的颜色 
+fontsize = "18"; //字体大小 
+speed = 2501; //转换速度 (1000 = 1 秒) 
+i = 0; 
+if (navigator.appName == "Netscape") { 
+document.write("<layer id=a visibility=show></layer><br><br><br>"); 
+} 
+else { 
+document.write("<div id=a></div>"); 
+} 
+function changeCharColor() { 
+if (navigator.appName == "Netscape") { 
+document.a.document.write("<center><font face=arial ><font color=" + color1 + 
+">"); 
+for (var j = 0; j < text.length; j++) { 
+if(j == i) { 
+document.a.document.write("<font face=arial color=" + color2 + ">" + Text.charAt(i) + "</font>"); 
+} 
+else { 
+document.a.document.write(text.charAt(j)); 
+} 
+} 
+document.a.document.write('</font></font></center>'); 
+document.a.document.close(); 
+} 
+if (navigator.appName == "Microsoft Internet Explorer") { 
+str = "<font face=arial><font color=" + color1 + ">"; 
+for (var j = 0; j < text.length; j++) { 
+if( j == i) { 
+str += "<font face=arial color=" + color2 + ">" + text.charAt(i) + "</font>"; 
+} 
+else { 
+str += text.charAt(j); 
+} 
+} 
+str += "</font></font>"; 
+a.innerHTML = str; 
+} 
+(i == text.length) ? i=0 : i++; 
+} 
+setInterval("changeCharColor()", speed); 
+--> 
+</SCRIPT> </center>

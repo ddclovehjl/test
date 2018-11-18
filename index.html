@@ -32,6 +32,56 @@ setInterval("changeColor()",200);
      &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
     <div style="float:right"><img src="https://p0.ssl.qhimgs4.com/dmfd/125_71_/t0160e257ae707af88c.jpg?size=640x480"></div></p>
 <p>     &emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
+  
+  <head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"> 
+<title>JS特效，点击图片将其放大</title> 
+</head> 
+ 
+<body> 
+<script language="JavaScript"> 
+<!-- 
+function MM_showHideLayers() { //v3.0 
+var i,p,v,obj,args=MM_showHideLayers.arguments; 
+for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2]; 
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; } 
+    obj.visibility=v; } 
+} 
+ 
+function MM_findObj(n, d) { //v4.01 
+var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) { 
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);} 
+if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n]; 
+for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); 
+if(!x && d.getElementById) x=d.getElementById(n); return x; 
+} 
+//--> 
+</script> 
+<a href="" onClick="return false"><img name="small" border="0" src="http://p1.so.qhimgs1.com/t01baa77d65704be141.jpg" width="800" height="1400" onClick="MM_showHideLayers('layer2','','show');MM_showHideLayers('layer','','hide');MM_showHideLayers('layer1','','hide');"></a>  
+<div id="layer2" style="position: absolute; left: 14px; top: 3px; width: 1765; height: 1765; z-index: 1; visibility: hidden">  
+<table border="0" width="1761" height="1216" cellspacing="1" cellpadding="1"> 
+    <tr bordercolor="#FFFFFF">  
+      <td width="624" valign="top" align="left"> 　  
+        <div align="center">  
+          <center> 
+            <table border="0" width="122%" height="181" cellspacing="0" cellpadding="0"> 
+              <tr>  
+                <td width="100%" height="151" valign="top" align="center"><a href="" onclick="return false" ><img name="big" src="http://p1.so.qhimgs1.com/t01baa77d65704be141.jpg" onclick="MM_showHideLayers('layer2','','hide');MM_showHideLayers('layer','','show');MM_showHideLayers('layer1','','show');return false;" border="0" width="1600" height="2800"></a>  
+                </td> 
+              </tr> 
+              <tr>  
+                <td width="100%" height="12" valign="top" align="center">　</td> 
+              </tr> 
+            </table> 
+          </center> 
+        </div> 
+      </td> 
+    </tr> 
+</table> 
+</div> 
+ 
+</body> 
+  
   <center> <div id="blink"><img src="http://p1.so.qhimgs1.com/t01baa77d65704be141.jpg"  height=500  width=400>&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;
   <img src="http://p4.so.qhmsg.com/bdr/326__/t01864e76afcfe5f749.jpg"  height=500  width=400>
      &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p0.so.qhmsg.com/bdr/326__/t01a9ff4093546f912f.jpg" height=500 width=400>

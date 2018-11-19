@@ -47,8 +47,6 @@ for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args
     if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; } 
     obj.visibility=v; } 
 } 
-
- <center> <b>写上你想写的字</b></cemter>
   
   function MM_findObj(n, d) { //v4.01 
 var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) { 
@@ -142,6 +140,17 @@ if(!x && d.getElementById) x=d.getElementById(n); return x;
    &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p1.so.qhimgs1.com/bdr/326__/t01c186aa68a9bf0701.jpg" height=500 width=400>
      &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &nbsp;&emsp; &emsp; &emsp;<img src="http://p0.so.qhimgs1.com/bdr/326__/t0140291295363c3da0.jpg"  height=500  width=400>
                   </center></div></p></center></div></p></center>
+
+                  
+          <div id="blink">闪烁的文字</div> 
+<script language="javascript"> 
+function changeColor(){ 
+var color="#f00|#0f0|#00f|#880|#808|#088|yellow|green|blue|gray"; 
+color=color.split("|"); 
+document.getElementById("blink").style.color=color[parseInt(Math.random() * color.length)]; 
+} 
+setInterval("changeColor()",200); 
+</script>
 
 <div style="float:left"><meta charset="UTF-8">
 <title>Document</title>
